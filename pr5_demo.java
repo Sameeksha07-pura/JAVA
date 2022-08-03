@@ -11,7 +11,6 @@ class user{
         this.name=name;
     }
 
-
 class account{
     double balance;
     int accno;
