@@ -1,5 +1,4 @@
 package java;
-
 import java.Outer.Inner;
 
 class Outer{
