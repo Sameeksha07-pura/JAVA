@@ -19,3 +19,4 @@ public class inheritence_demo {
         System.out.println("Area of Triangle:"+a.area_tri(20,30));
     }
 }
+
